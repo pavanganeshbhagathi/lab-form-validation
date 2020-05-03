@@ -25,7 +25,7 @@ git push origin master
 
 And finally, create a pull request so your ProGrad Mentor (PM) can review your work.
 ```
-
+q   A
 ## Instructions
 Open script.js and follow the instructions.
 
